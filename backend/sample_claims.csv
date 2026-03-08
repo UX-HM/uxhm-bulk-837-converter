@@ -1,0 +1,4 @@
+member_id,subscriber_first_name,subscriber_last_name,service_date,diagnosis_code,procedure_code,modifier,quantity,charged_amount
+M123456789,John,Doe,20260115,401.1,99213,,1,150.00
+M123456789,John,Doe,20260115,401.1,99214,,1,200.00
+M987654321,Jane,Smith,20260120,272.4,80053,,1,75.00
