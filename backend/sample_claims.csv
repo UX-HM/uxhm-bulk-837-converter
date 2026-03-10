@@ -1,4 +1,4 @@
-member_id,subscriber_first_name,subscriber_last_name,service_date,diagnosis_code,procedure_code,modifier,quantity,charged_amount
-M123456789,John,Doe,20260115,401.1,99213,,1,150.00
-M123456789,John,Doe,20260115,401.1,99214,,1,200.00
-M987654321,Jane,Smith,20260120,272.4,80053,,1,75.00
+billing_provider_name,billing_provider_npi,billing_provider_taxonomy,billing_provider_address,billing_provider_city,billing_provider_state,billing_provider_zip,billing_provider_tax_id,submitter_name,submitter_contact,submitter_phone,receiver_name,receiver_id,subscriber_first_name,subscriber_last_name,subscriber_address,subscriber_city,subscriber_state,subscriber_zip,member_id,patient_first_name,patient_last_name,service_date,diagnosis_code,procedure_code,modifier,quantity,charged_amount,place_of_service,rendering_provider_npi,rendering_provider_last_name,rendering_provider_first_name
+Acme Medical Group,1234567893,193200000X,123 Main Street,Springfield,IL,62701,123456789,Acme Medical Group,Jane Smith,5551234567,Office Ally,OALLC123,John,Doe,456 Oak Avenue,Springfield,IL,62702,M123456789,John,Doe,20260115,E11.9,99213,,1,150.00,11,1234567893,Smith,Jane
+Acme Medical Group,1234567893,193200000X,123 Main Street,Springfield,IL,62701,123456789,Acme Medical Group,Jane Smith,5551234567,Office Ally,OALLC123,John,Doe,456 Oak Avenue,Springfield,IL,62702,M123456789,John,Doe,20260115,E11.9,99214,,1,200.00,11,1234567893,Smith,Jane
+Acme Medical Group,1234567893,193200000X,123 Main Street,Springfield,IL,62701,123456789,Acme Medical Group,Jane Smith,5551234567,Office Ally,OALLC123,Jane,Smith,789 Pine Street,Chicago,IL,60601,M987654321,Jane,Smith,20260120,E44.0,80053,,1,75.00,11,1234567893,Smith,Jane
